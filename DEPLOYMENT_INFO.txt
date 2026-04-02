@@ -1,0 +1,17 @@
+Recipe Finder App - Live Deployment Ready
+
+✅ DEPLOYMENT COMPLETE
+
+Live URL: http://jocular-pony-ea391e.netlify.app
+Password: My-Drop-Site
+
+GitHub Repository: https://github.com/WandRui/recipe-finder
+
+⚠️  IMPORTANT: The anonymous Netlify deploy expires in 60 minutes. To keep it:
+1. Go to: https://app.netlify.com/drop/jocular-pony-ea391e#drop_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NzUxMDAxNDYsImV4cCI6MTc3NTEwMzc0NiwiaXNzIjoiTmV0bGlmeSIsInNlc3Npb25faWQiOiJkZTNjYTMzYi0wZjY5LTRiOGUtYmNkNS0zM2FmM2YzNGRkODUifQ.Udzka2tUKpWPkybijBEVtdE5bf5VUlfEcuwdmJMl7Uo
+2. Sign up/log in to claim the site
+3. OR push to GitHub and connect to Netlify for auto-deploys
+
+To push to GitHub (after creating the repo):
+   git push -u origin main
+
