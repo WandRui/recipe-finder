@@ -4,7 +4,7 @@ A React application that allows users to search for recipes using TheMealDB API.
 
 ## Live Demo
 
-🔗 [View Live App](https://recipe-finder.vercel.app)
+🔗 [View Live App](https://wandrui.github.io/recipe-finder)
 
 ## Features
 
@@ -21,7 +21,7 @@ A React application that allows users to search for recipes using TheMealDB API.
 - **Material-UI (MUI) v5** - UI component library
 - **Axios** - HTTP client for API calls
 - **TheMealDB API** - Free recipe database
-- **Vercel** - Deployment platform
+- **Netlify** - Deployment platform
 
 ## Installation
 
