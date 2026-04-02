@@ -1,4 +1,6 @@
-# 🍳 Recipe Finder App
+# 🍳 Recipe Finder App - Live Demo
+
+**🔗 Live URL: https://wandrui.github.io/recipe-finder**
 
 A React application that allows users to search for recipes using TheMealDB API.
 
