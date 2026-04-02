@@ -21,7 +21,7 @@ A React application that allows users to search for recipes using TheMealDB API.
 - **Material-UI (MUI) v5** - UI component library
 - **Axios** - HTTP client for API calls
 - **TheMealDB API** - Free recipe database
-- **Netlify** - Deployment platform
+- **GitHub Pages** - Deployment platform
 
 ## Installation
 
